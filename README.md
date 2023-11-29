@@ -1,4 +1,4 @@
-# Profesora-Erica
+# Professora-Erica
 
 **Eu sou professora de Matemática**
 
